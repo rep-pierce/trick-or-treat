@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trick-or-treat/static/css/main.073c9b0a.css",
+    "main.js": "/trick-or-treat/static/js/main.bef75855.js",
+    "static/js/787.bd2a2354.chunk.js": "/trick-or-treat/static/js/787.bd2a2354.chunk.js",
+    "static/media/logo.svg": "/trick-or-treat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trick-or-treat/index.html",
+    "main.073c9b0a.css.map": "/trick-or-treat/static/css/main.073c9b0a.css.map",
+    "main.bef75855.js.map": "/trick-or-treat/static/js/main.bef75855.js.map",
+    "787.bd2a2354.chunk.js.map": "/trick-or-treat/static/js/787.bd2a2354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bef75855.js"
+  ]
+}
